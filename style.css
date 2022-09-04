@@ -1,0 +1,25 @@
+body{
+    background-color: #339CFF;
+}
+
+.container{
+    text-align: center;
+    margin-top: 15%;
+}
+
+input{
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+#operators{
+    padding: 10px;
+    font-size: 16px;
+}
+
+button{
+    padding: 10px;
+    font-size: 16px;
+}
